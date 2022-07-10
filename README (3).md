@@ -22,7 +22,8 @@ To test this app, open up the file in VS Code. Open the terminal, change directo
 
 ## Screenshots
 
-https://user-images.githubusercontent.com/27812373/178165937-5e1393d7-e19f-4893-8a36-c9c9c793a707.png
+![image](https://user-images.githubusercontent.com/27812373/178166044-4ff53327-c953-4cd9-b123-5e73d0c79e77.png)
+
 
 
 ## Authors
