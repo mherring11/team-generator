@@ -20,6 +20,10 @@ To test this app, open up the file in VS Code. Open the terminal, change directo
 
 <iframe src="https://drive.google.com/file/d/1ondRzxiB-wjNXuSFxreKRt2Ror65HPXH/preview" width="640" height="480"></iframe>
 
+## Screenshots
+
+https://user-images.githubusercontent.com/27812373/178165937-5e1393d7-e19f-4893-8a36-c9c9c793a707.png
+
 
 ## Authors
 
