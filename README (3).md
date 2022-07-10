@@ -18,7 +18,7 @@ To test this app, open up the file in VS Code. Open the terminal, change directo
 
 ## Demo
 
-<iframe src="https://drive.google.com/file/d/1ondRzxiB-wjNXuSFxreKRt2Ror65HPXH/preview" width="640" height="480"></iframe>
+https://user-images.githubusercontent.com/27812373/178166410-99bdd01d-47ff-4bf1-8b08-016614912ad5.webm
 
 ## Screenshots
 
